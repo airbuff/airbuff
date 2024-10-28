@@ -1,6 +1,6 @@
-<div align="right">
+<div align="left">
 <a href="https://github.com/airbuff">
-    <img src="https://raw.githubusercontent.com/airbuff/airbuff/main/assets/octocat.png" alt="Octocat" width="100" height="100">
+    <img src="https://raw.githubusercontent.com/airbuff/airbuff/main/assets/octocat.png" alt="Octocat" width="50" height="50">
 </a>
 </div>
 
