@@ -1,4 +1,4 @@
-<div align ="center"> <a>href="../assets/octocat.png"</a>
+<div align ="center"> <a>href="https://github.com/airbuff/airbuff/blob/main/assets/octocat.png"</a>
 </div>
 <div align="center">
 <a href="https://github.com/airbuff" target="blank"><img align="center" title="Hello, World!"
