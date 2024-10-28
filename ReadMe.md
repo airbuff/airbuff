@@ -1,4 +1,5 @@
-<div align ="center"> <a>href="https://github.com/airbuff/airbuff/blob/main/assets/octocat.png"</a>
+<div align ="center"> <a>[![Octocat](https://raw.githubusercontent.com/airbuff/airbuff/main/assets/octocat.png)](https://github.com/airbuff)
+</a>
 </div>
 <div align="center">
 <a href="https://github.com/airbuff" target="blank"><img align="center" title="Hello, World!"
