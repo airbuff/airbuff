@@ -1,4 +1,16 @@
-<h1 align="center">Hi 👋</h1>
+<h1 align="center">👋</h1>
+<div align="center">
+<a href="https://github.com/airbuff" target="blank"><img align="center" title="Hello, World!"
+          src="https://readme-typing-svg.herokuapp.com/?center=true&amp;vcenter=true&amp;width=600&amp;height=75&amp;font=rubik&amp;size=30&amp;duration=3000&amp;color=000000&amp;lines=P&#xEB;rsh&#xEB;ndetje%2c+My+Name+Is+Nish!;&#x12A5;&#x12CD;+&#x1230;&#x120B;&#x121D;+&#x1290;&#x12CD;%2c+My+Name+Is+Nish!;&#x623;&#x647;&#x644;&#x627;%2c+My+Name+Is+Nish!;&#x532;&#x561;&#x580;&#x565;&#x582;+&#x541;&#x565;&#x566;%2c+My+Name+Is+Nish!;Salam%2c+My+Name+Is+Nish!;&#x9B9;&#x9CD;&#x9AF;&#x9BE;&#x9B2;&#x9CB;%2c+My+Name+Is+Nish!;&#x928;&#x92E;&#x938;&#x94D;&#x924;&#x947;%2c+My+Name+Is+Nish!;Szia%2c+My+Name+Is+Nish!;Ol&#xE1;%2c+My+Name+Is+Nish!;&#xA38;&#xA24;+&#xA38;&#xA4D;&#xA30;&#xA40;+&#xA05;&#xA15;&#xA3E;&#xA32;%2c+My+Name+Is+Nish!;Buna+Ziua%2c+My+Name+Is+Nish!;&#x41F;&#x440;&#x438;&#x432;&#x435;&#x442;%2c+My+Name+Is+Nish!;Talofa%2c+My+Name+Is+Nish!;Hal&#xF2;%2c+My+Name+Is+Nish!;&#x417;&#x434;&#x440;&#x430;&#x432;&#x43E;%2c+My+Name+Is+Nish!;Mhoro%2c+My+Name+Is+Nish!;Hola%2c+My+Name+Is+Nish!;&#xC548;&#xB155;&#xD558;&#xC138;&#xC694;%2c+My+Name+Is+Nish!;&#x3053;&#x3093;&#x306B;&#x3061;&#x306F;%2c+My+Name+Is+Nish!;&#x417;&#x434;&#x440;&#x430;&#x432;&#x43E;%2c+My+Name+Is+Nish!;&#x421;&#x430;&#x439;&#x43D;+&#x423;&#x443;%2c+My+Name+Is+Nish!;&#x928;&#x92E;&#x938;&#x94D;&#x915;&#x93E;&#x930;%2c+My+Name+Is+Nish!;Aloha%2c+My+Name+Is+Nish!;Bonjour%2c+My+Name+Is+Nish!;&#x5E9;&#x5DC;&#x5D5;&#x5DD;%2c+My+Name+Is+Nish!;&#x3A7;&#x3B1;&#x3AF;&#x3C1;&#x3B5;&#x3C4;&#x3B5;%2c+My+Name+Is+Nish!;Kamusta%2c+My+Name+Is+Nish!;Hallo%2c+My+Name+Is+Nish!;&#x4F60;&#x597D;%2c+My+Name+Is+Nish!;&#x417;&#x434;&#x440;&#x430;&#x432;&#x435;&#x439;&#x442;&#x435;%2c+My+Name+Is+Nish!;&#x414;&#x43E;&#x431;&#x440;&#x44B;+&#x414;&#x437;&#x435;&#x43D;&#x44C;%2c+My+Name+Is+Nish!;Dia+Dhuit%2c+My+Name+Is+Nish!;Ciao%2c+My+Name+Is+Nish!;&#xEAA;&#xEB0;&#xE9A;&#xEB2;&#xE8D;&#xE94;&#xEB5;%2c+My+Name+Is+Nish!;Kia+Ora%2c+My+Name+Is+Nish!"
+          alt="Hello, World!" height="100%" width="100%"></a></p>
+    
+
+
+![spotify](https://spotify-github-profile.vercel.app/api/view?uid=Nish.fields1&cover_image=true)
+
+  
+</div> 
+
 <h3 align="center">A Computer Science Professional Passionate About Secure Development</h3>
 
 <div align="center">
