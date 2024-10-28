@@ -13,4 +13,4 @@ Welcome to My GitHub Profile! 👋<br><br>I am a Computer Science Professional w
 ![](https://github-readme-streak-stats.herokuapp.com/?user=airbuff&theme=tokyonight&hide_border=false)<br/>  
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
