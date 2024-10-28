@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Nishan</h1>
+<h1 align="center">Hi 👋</h1>
 <h3 align="center">A Computer Science Professional Passionate About Secure Development</h3>
 
 <div align="center">
