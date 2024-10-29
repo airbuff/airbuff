@@ -30,8 +30,8 @@
 
 ### 📊 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=airbuff&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" width="48%" height="134"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=airbuff&theme=tokyonight&hide_border=false" alt="GitHub Streak" width="48%" height="134"/>
+<img src="https://github-readme-stats.vercel.app/api?username=airbuff&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" width="44%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=airbuff&theme=tokyonight&hide_border=false" alt="GitHub Streak" width="48%"/>
 
 ### 💻 Most Used Languages
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=airbuff&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
